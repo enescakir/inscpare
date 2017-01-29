@@ -9,7 +9,7 @@
 import Foundation
 import SwiftyJSON
 
-class InscparePhoto: Inscpare {
+class InscparePost: Inscpare {
   var id:String?
   var photo:URL?
   var caption:String?
